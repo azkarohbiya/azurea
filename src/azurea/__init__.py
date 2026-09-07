@@ -4,7 +4,7 @@ import matplotlib as mpl
 import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 
-__version__ = "0.2.1"
+__version__ = "0.2.2"
 
 custom_colors = [
     '#5778a4', '#e49444', '#d1615d', '#85b6b2', '#6a9f58',
