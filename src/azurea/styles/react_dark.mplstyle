@@ -1,0 +1,39 @@
+# azurea.react_dark — plt.style.use('azurea.react_dark')
+
+axes.facecolor:      282c34
+axes.edgecolor:      444444
+axes.labelcolor:     BBBBBB
+figure.facecolor:    282c34
+figure.edgecolor:    444444
+savefig.facecolor:   282c34
+savefig.edgecolor:   444444
+
+xtick.color:         444444
+ytick.color:         444444
+xtick.labelcolor:    BBBBBB
+ytick.labelcolor:    BBBBBB
+text.color:          BBBBBB
+
+grid.color:          444444
+grid.linestyle:      --
+grid.alpha:          0.9
+axes.grid:           True
+axes.grid.axis:      y
+axes.axisbelow:      True
+
+axes.spines.top:     False
+axes.spines.right:   False
+axes.spines.left:    False
+axes.spines.bottom:  True
+
+axes.xmargin:        0.01
+axes.ymargin:        0.2
+
+lines.linewidth:     2
+font.size:           12
+font.family:         Poppins
+
+patch.edgecolor:     none
+patch.linewidth:     0
+
+axes.prop_cycle: cycler('color', ['5778a4','e49444','d1615d','85b6b2','6a9f58','e7ca60','a87c9f','f1a2b1','967662','b8b0ac','c47596','d3a7bc','7abf73','c4a444','4d9490','82b4b0','eec96a','9dc6e0','f5c07a','979797','c9aac6','82b4b0','e0705a'])
